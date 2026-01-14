@@ -47,7 +47,3 @@ Employees are linked to departments using `dept_id`.
 - Insert, update, delete data
 - Basic select and join queries
 
----
-
-## Author
-vinayak kapoor

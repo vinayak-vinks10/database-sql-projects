@@ -73,6 +73,4 @@ After this project, I gained confidence in:
 
 ---
 
-## Author
-Your Name  
-SQL Learner
+

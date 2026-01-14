@@ -70,6 +70,4 @@ Through this project, I learned how to:
 
 ---
 
-## Author
-Your Name  
-SQL Learner
+
